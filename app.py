@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from groq import groq
+from groq import Groq
 from dotenv import load_dotenv
 
 # Load environment variables
